@@ -1,0 +1,4 @@
+baseURL = 'https://svd.type42.dev/'
+languageCode = 'uk-ua'
+title = 'svd.'
+theme = "hugo-theme-monochrome"
